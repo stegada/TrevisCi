@@ -16,4 +16,9 @@ public class First {
 		assertEquals(new Integer(2), FirstClass.due());
 	}
 
+	@Test
+	public void test2() {
+		assertEquals(new Integer(3), FirstClass.due());
+	}
+
 }
