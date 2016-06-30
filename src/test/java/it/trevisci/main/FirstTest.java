@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
 
-public class First {
+public class FirstTest {
 
 	@Before
 	public void setUp() throws Exception {

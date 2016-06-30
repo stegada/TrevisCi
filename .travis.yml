@@ -3,4 +3,4 @@ language: java
 jdk:
   - oraclejdk8
   
-script: mvn clean install test && mvn verify
+script: mvn clean install
